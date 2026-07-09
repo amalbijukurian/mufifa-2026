@@ -247,6 +247,6 @@ My long-term goal is to become an AI Engineer specializing in intelligent system
 <!-- Replace with your μLearn embed link -->
 
 <img
-    src="https://mulearn.org/embed/rank/amalbiju-1@mulearn"
+    src="https://mulearn.org/embed/rank/yourname@mulearn"
     width="400px">
 </img>
